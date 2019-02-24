@@ -1,2 +1,0 @@
-# LINE Today design system
-

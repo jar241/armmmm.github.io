@@ -1,2 +1,2 @@
-# Introduction
+# LT Design system
 
