@@ -12,7 +12,7 @@
 
 ### 1. Definition
 
-![](../.gitbook/assets/group-22-copy-4.png)
+![](../.gitbook/assets/group-22-copy-3%20%281%29.png)
 
 1. **List**  리스트는 vertical index를 일컫는다.
 2. **Row**  리스트의 기본단위는 행이며, 행들이 모여 리스트가 된다.
@@ -22,7 +22,7 @@
 
 ### 2. Content Types
 
-![](../.gitbook/assets/group-28.png)
+![](../.gitbook/assets/group-22-copy.png)
 
 1. **Supporting visuals**  [**Avatar**↗](../foundation/communication/imagery.md#avatar)  [**Thumbnail**](../foundation/communication/imagery.md#thumbnail-image)↗ 
 2. **Primary text**   Title with secondary text 전체를 Primary text라 일컫는다. Title을 기준으로 One-line, Two-line, Three-line을 정의한다. \(Secondary text는 고려하지 않는\)
@@ -80,11 +80,14 @@ List control 은 다음과 같이 세가지 타입으로 분류하여 리스트 
 
 {% tabs %}
 {% tab title="Design Guide" %}
-As an entry of the list of newsstands' article, it cues users to visit and check another list.
+#### Use as an entry of another list, functioning like a text link on [**title section**](title.md#title-section)
 
-{% hint style="info" %}
-Related article [**Title section**](title.md#title-section)\*\*\*\*↗ 
-{% endhint %}
+![](../.gitbook/assets/artboard-copy-6%20%281%29.png)
+
+| Module | Components |
+| :--- | :--- |
+| Common \(left\) | Type1 list➕Type3 list |
+| Exhaustive \(right\) | Title section ➕ Type1 list➕Type3 list➕Collapsible buttons |
 {% endtab %}
 
 {% tab title="Dev Guide" %}
@@ -116,20 +119,20 @@ This is dummy
 {% endtab %}
 
 {% tab title="Used in" %}
-![](../.gitbook/assets/artboard-copy.png)
-
-| Features | Page name |
-| :--- | :--- |
-| CP-Module | [See More Page Sample](https://zpl.io/VQKg4zx)🔗  |
-| CP-Module | [Fold Page Sample](https://zpl.io/VQKJNym)🔗  |
+| Features |  | Page\(Layout\) |  |
+| :--- | :--- | :--- | :--- |
+| CP |  | [See More Page Sample](https://zpl.io/VQKg4zx)🔗  | ![](../.gitbook/assets/image%20%281%29.png) |
+| CP |  | [Fold Page Sample](https://zpl.io/VQKJNym)🔗  | ![](../.gitbook/assets/image.png) |
 {% endtab %}
 {% endtabs %}
 
 
 
+### 
+
 ### 2. Avatar with text with thumbnail
 
-![](../.gitbook/assets/group-60.png)
+![](../.gitbook/assets/group-60%20%281%29.png)
 
 {% tabs %}
 {% tab title="Design Guide" %}
@@ -166,7 +169,7 @@ This is dummy
 
 ### 3. Thumbnail with text
 
-![](../.gitbook/assets/group-61.png)
+![](../.gitbook/assets/group-61%20%281%29.png)
 
 {% tabs %}
 {% tab title="Design Guide" %}
@@ -262,13 +265,9 @@ margin-top : 5px;
 {% endtab %}
 
 {% tab title="Used in" %}
-![](../.gitbook/assets/artboard%20%281%29.png)
+![](../.gitbook/assets/artboard.png)
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-Related article : [**Dialog**](../foundation/communication/dialog.md)↗  [**Menu**](menu.md)\*\*\*\*↗
-{% endhint %}
 
 
 
@@ -280,7 +279,7 @@ Related article : [**Dialog**](../foundation/communication/dialog.md)↗  [**Men
 
 ### 7. List control: Edit
 
-![](../.gitbook/assets/group-67.png)
+![](../.gitbook/assets/group-67%20%281%29.png)
 
 
 
@@ -298,7 +297,7 @@ Related article : [**Dialog**](../foundation/communication/dialog.md)↗  [**Men
 
 ![](../.gitbook/assets/artboard-copy-5.png)
 
-![](../.gitbook/assets/artboard-copy-4.png)
+![](../.gitbook/assets/artboard-copy-4%20%282%29.png)
 
 
 
