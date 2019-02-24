@@ -37,7 +37,7 @@
 
 ## Types
 
-**리스트는 다음과 같은 기준으로 타입을 정의할 수 있다.**
+#### **리스트는 다음과 같은 기준으로 타입을 정의할 수 있다.**
 
 | Type | Title | Secondary text | Control\* | State/meta |
 | :--- | :--- | :--- | :--- | :--- |
@@ -76,18 +76,18 @@ List control 은 다음과 같이 세가지 타입으로 분류하여 리스트 
 
 ### 1. Avatar with text
 
-![](../.gitbook/assets/group-59.png)
+#### Use as an entry of another list, functioning like a text link on title section
+
+![A single component only](../.gitbook/assets/group-59.png)
 
 {% tabs %}
 {% tab title="Design Guide" %}
-#### Use as an entry of another list, functioning like a text link on [**title section**](title.md#title-section)
-
 ![](../.gitbook/assets/artboard-copy-6%20%281%29.png)
 
-| Module | Components |
-| :--- | :--- |
-| Common \(left\) | Type1 list➕Type3 list |
-| Exhaustive \(right\) | Title section ➕ Type1 list➕Type3 list➕Collapsible buttons |
+| Module | Components |  |  |  |
+| :--- | :--- | :--- | :--- | :--- |
+| **Common \(left\)** | Type1 list | Type 3 list |  |  |
+| **Exhaustive \(right\)** | Title section  | Type 1 list | Type 3 list | Collapsible buttons |
 {% endtab %}
 
 {% tab title="Dev Guide" %}
@@ -119,10 +119,12 @@ This is dummy
 {% endtab %}
 
 {% tab title="Used in" %}
-| Features |  | Page\(Layout\) |  |
-| :--- | :--- | :--- | :--- |
-| CP |  | [See More Page Sample](https://zpl.io/VQKg4zx)🔗  | ![](../.gitbook/assets/image%20%281%29.png) |
-| CP |  | [Fold Page Sample](https://zpl.io/VQKJNym)🔗  | ![](../.gitbook/assets/image.png) |
+![](../.gitbook/assets/artboard-copy%20%281%29.png)
+
+| Features | Page\(Layout\) |
+| :--- | :--- |
+| CP | [See More Page Sample](https://zpl.io/VQKg4zx)🔗  |
+| CP | [Fold Page Sample](https://zpl.io/VQKJNym)🔗  |
 {% endtab %}
 {% endtabs %}
 
@@ -132,11 +134,13 @@ This is dummy
 
 ### 2. Avatar with text with thumbnail
 
-![](../.gitbook/assets/group-60%20%281%29.png)
+#### Use as a list containing two types of imagery
+
+![Component variants based on the number of avatar and text line](../.gitbook/assets/group-60%20%281%29.png)
 
 {% tabs %}
 {% tab title="Design Guide" %}
-
+![](../.gitbook/assets/artboard-copy-7.png)
 {% endtab %}
 
 {% tab title="Dev Guide" %}
@@ -169,6 +173,8 @@ This is dummy
 
 ### 3. Thumbnail with text
 
+####  Use as a basic list because it has already been dominant all over pages 
+
 ![](../.gitbook/assets/group-61%20%281%29.png)
 
 {% tabs %}
@@ -194,16 +200,16 @@ This is dummy
 {% endtab %}
 
 {% tab title="Used in" %}
-![](../.gitbook/assets/artboard-copy-3.png)
+![](../.gitbook/assets/artboard-copy-3%20%281%29.png)
 
 | Features | Page name |
 | :--- | :--- |
 | Today | Channel Page Sample |
 |  | End Sample - Channel 1-2 |
-| Movie |  |
-| UGC |  |
-| CP-Module | See More Page Sample |
+| CP | See More Page Sample |
 | Election |  |
+| Movie |  |
+|  |  |
 {% endtab %}
 {% endtabs %}
 
