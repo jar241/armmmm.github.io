@@ -4,7 +4,7 @@ description: 'Lists are continuous, vertical indexes of text or images.'
 
 # Lists
 
-![](../.gitbook/assets/group-22-copy-3.png)
+![Lists are continuous, vertical indexes of text or images.](../.gitbook/assets/group-22-copy-3.png)
 
 ## Anatomy
 
@@ -35,25 +35,163 @@ description: 'Lists are continuous, vertical indexes of text or images.'
 
 ## Types
 
-리스트는 다음과 같은 기준으로 타입을 정의할 수 있다.
+**리스트는 다음과 같은 기준으로 타입을 정의할 수 있다.**
 
 | Type | Line | Control | State |
 | :--- | :--- | :--- | :--- |
-| Text only | One-line | Select | Normal |
-| Avatar with text | Two-line | Edit | Selected |
-| Avatar with text & thumbnail | Three-line | collapsable | Unread |
-| Thumbnail with text |  | CTA |  |
-| Thumbnail with text & metadata |  |  |  |
+| Avatar with text | One-line | Select | Normal |
+| Avatar with text & thumbnail | Two-line | Edit | Selected |
+| Thumbnail with text | Three-line | collapsable | Unread |
+| Thumbnail with text including metadata |  | CTA |  |
+| Text only |  |  |  |
 
 ### 
 
-### 1. Text only
+### 1. Avatar with text
+
+![](../.gitbook/assets/group-59.png)
+
+{% tabs %}
+{% tab title="Dev Guide" %}
+```text
+This is dummy
+
+.Item-area {
+  width: 339px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0);
+} 
+.Figure-circle----Primary {
+  width: 60px;
+  height: 60px;
+  opacity: 0.08;
+}
+.List-Content {
+  width: 265px;
+  height: 22px;
+  font-family: PingFangTC;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.47;
+  letter-spacing: -0.4px;
+  color: var(--black);
+```
+{% endtab %}
+
+{% tab title="Used in" %}
+![](../.gitbook/assets/artboard-copy.png)
+
+| Features | Page name |
+| :--- | :--- |
+| CP-Module | See More Page Sample |
+| CP-Module | Fold Page Sample |
+{% endtab %}
+{% endtabs %}
+
+### 
+
+### 2. Avatar with text with thumbnail
+
+![](../.gitbook/assets/group-60.png)
+
+{% tabs %}
+{% tab title="Dev Guide" %}
+```text
+This is dummy
+
+.Item-area {
+  width: 339px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0);
+} 
+.Figure-circle----Primary {
+  width: 60px;
+  height: 60px;
+  opacity: 0.08;
+}
+```
+{% endtab %}
+
+{% tab title="Used in" %}
+![](../.gitbook/assets/artboard-copy-2.png)
+
+| Features | Page name |
+| :--- | :--- |
+| UGC | Buzz Notification Page Sample |
+{% endtab %}
+{% endtabs %}
+
+### 
+
+### 3. Thumbnail with text
+
+![](../.gitbook/assets/group-61.png)
+
+{% tabs %}
+{% tab title="Dev Guide" %}
+```text
+This is dummy
+
+.Item-area {
+  width: 339px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0);
+} 
+.Figure-circle----Primary {
+  width: 60px;
+  height: 60px;
+  opacity: 0.08;
+}
+```
+{% endtab %}
+
+{% tab title="Used in" %}
+![](../.gitbook/assets/artboard-copy-3.png)
+
+| Features | Page name |
+| :--- | :--- |
+| Today | Channel Page Sample |
+|  | End Sample - Channel 1-2 |
+| Movie |  |
+| UGC |  |
+| CP-Module | See More Page Sample |
+| Election |  |
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+### 4. Thumbnail with text including metadata
+
+![](../.gitbook/assets/group-61.png)
+
+{% tabs %}
+{% tab title="Dev Guide" %}
+
+{% endtab %}
+
+{% tab title="Used in" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+### 5. Text only
 
 ![](../.gitbook/assets/group-55.png)
 
 {% tabs %}
 {% tab title="Dev Guide" %}
 ```text
+This is dummy
+
 /* Hint text */
 font-family: Helvetica;
 font-weight: regular;
@@ -75,21 +213,15 @@ color: $gray40;
 {% endtab %}
 
 {% tab title="Used in" %}
-![](../.gitbook/assets/190222_gln-design-system-docs_plan.png)
+![](../.gitbook/assets/artboard%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
 {% hint style="info" %}
-Related article : Dialog, Menu
+Related article : [**Dialog**](../foundation/communication/dialog.md)↗ , [**Menu**](menu.md)\*\*\*\*↗
 {% endhint %}
 
-{% page-ref page="../foundation/communication/dialog.md" %}
-
-{% page-ref page="menu.md" %}
 
 
 
-
-
-### 2. Avatar with text
 

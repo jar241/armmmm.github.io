@@ -1,6 +1,7 @@
 # Table of contents
 
-* [LINE Today design system](README.md)
+* [Introduction](README.md)
+* [LINE Today design system](line-today-design-system.md)
 
 ## Foundation
 
