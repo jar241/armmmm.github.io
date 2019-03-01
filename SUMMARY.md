@@ -17,7 +17,8 @@
 
 ## Contents
 
-* [Lists](contents/lists.md)
+* [Lists : vertical](contents/lists.md)
+* [Lists : horizontal](contents/list-horizontal.md)
 * [Cards](contents/cards.md)
 * [Menu](contents/menu.md)
 * [Title](contents/title.md)

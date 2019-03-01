@@ -1,10 +1,10 @@
-# Lists
+# Lists : vertical
 
 ## Overview
 
 ![](../.gitbook/assets/group-22-copy-3.png)
 
-### List are continuous, vertical indexes of text or images
+### Vertical lists consist of related content grouped together and organised vertically. 
 
 
 
