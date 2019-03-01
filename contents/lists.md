@@ -37,7 +37,7 @@
 
 ## Types
 
-#### **리스트는 다음과 같은 기준으로 타입을 정의할 수 있다.**
+#### **리스트는 content 기준으로 타입을 정의할 수 있다.**
 
 | Type | Title | Secondary text | Control\* | State/meta |
 | :--- | :--- | :--- | :--- | :--- |
