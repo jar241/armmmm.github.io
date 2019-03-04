@@ -24,7 +24,7 @@
 
 ![](../.gitbook/assets/group-22-copy.png)
 
-1. **Supporting visuals**  [**Avatar**↗](../foundation/communication/imagery.md#avatar)  [**Thumbnail**](../foundation/communication/imagery.md#thumbnail-image)↗ 
+1. **Supporting visuals**  [**Avatar**↗](../foundation/communication/imagery.md#avatar)  [**Thumbnail**](../foundation/communication/imagery.md#thumbnail)\*\*\*\*↗ 
 2. **Primary text**   Title with secondary text 전체를 Primary text라 일컫는다. Title을 기준으로 One-line, Two-line, Three-line을 정의한다. \(Secondary text는 고려하지 않는\)
 3. **List control**  Select, edit \(delete and reorder\), collapsable
 4. **Metadata**  Text number, tag, etc..

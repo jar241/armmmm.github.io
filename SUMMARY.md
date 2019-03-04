@@ -4,7 +4,7 @@
 
 ## Foundation
 
-* [Terminology](foundation/terminology.md)
+* [Sharing language](foundation/sharing-language.md)
 * [Accessibility](foundation/accessibility.md)
 * [Brand](foundation/brand.md)
 * [Layout](foundation/layout.md)
@@ -13,7 +13,8 @@
 * [Iconography](foundation/iconography.md)
 * [Communication](foundation/communication/README.md)
   * [Imagery](foundation/communication/imagery.md)
-  * [Dialog](foundation/communication/dialog.md)
+  * [Confirmation & acknowledgement](foundation/communication/dialog.md)
+  * [Formatting](foundation/communication/formatting.md)
 
 ## Contents
 
@@ -22,6 +23,7 @@
 * [Cards](contents/cards.md)
 * [Menu](contents/menu.md)
 * [Title](contents/title.md)
+* [Comments](contents/comments.md)
 * [Miscellaneous](contents/miscellaneous.md)
 
 ## Controls
@@ -31,7 +33,7 @@
 
 ## Navigation
 
-* [Header](navigation/header.md)
+* [Bar](navigation/bar.md)
 * [Tabs](navigation/tabs.md)
 * [Search](navigation/search.md)
 

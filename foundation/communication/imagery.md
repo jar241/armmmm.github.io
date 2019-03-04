@@ -8,11 +8,19 @@
 
 
 
+## Aspect ratio
+
+The aspect ratio of an image is the proportional relationship of the width to the height. The relationship between its width and height determines the ratio and shape, but not the image’s actual size.
+
+![](../../.gitbook/assets/group-9.png)
+
 
 
 ## Hero image
 
-Hero images help draw attention, provide context about content, or reinforce a brand. Hero images are anchored in the most prominent position, such as the top of the screen.
+Hero images help draw attention, provide context about content, or reinforce a brand. Hero images are anchored in the most prominent position, such as the top of the screen. 
+
+**Aspect ratio  16:9**
 
 {% tabs %}
 {% tab title="Design guide" %}
@@ -44,7 +52,7 @@ Hero images help draw attention, provide context about content, or reinforce a b
 
 ## Thumbnail
 
-Thumbnails are small images that represent information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components like cards or lists.
+Thumbnails are small images that represent information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components like cards or lists. Thumbnails can be cropped in different shapes.
 
 {% tabs %}
 {% tab title="First Tab" %}
