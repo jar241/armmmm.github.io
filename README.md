@@ -6,8 +6,8 @@
 
 * **Sharing language**
 
-  * Attributes classification standard
-  * Sketch naming convention
+  * [Attributes classification standard](foundation/sharing-language/attributes-classification-standard.md)
+  * [Sketch naming convention](foundation/sharing-language/sketch-naming-convention.md)
 
 * **Accessibility**
 

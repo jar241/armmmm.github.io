@@ -4,7 +4,9 @@
 
 ## Foundation
 
-* [Sharing language](foundation/sharing-language.md)
+* [Sharing language](foundation/sharing-language/README.md)
+  * [Attributes classification standard](foundation/sharing-language/attributes-classification-standard.md)
+  * [Sketch naming convention](foundation/sharing-language/sketch-naming-convention.md)
 * [Accessibility](foundation/accessibility.md)
 * [Brand](foundation/brand.md)
 * [Layout](foundation/layout.md)
