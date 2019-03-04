@@ -141,6 +141,10 @@ This is dummy
 {% tabs %}
 {% tab title="Design Guide" %}
 ![](../.gitbook/assets/artboard-copy-7.png)
+
+| Module | Components |  |
+| :--- | :--- | :--- |
+| **Common** | Type 2 list |  |
 {% endtab %}
 
 {% tab title="Dev Guide" %}
